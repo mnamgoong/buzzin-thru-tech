@@ -1,2 +1,2 @@
-# buzzin-thru-tech
-A rudimentary Android game inspired by Crossy Road
+# Buzzin' Thru Tech
+Final project for CS 2340 at the Georgia Institute of Technology (Spring 2023)
