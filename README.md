@@ -8,7 +8,7 @@ Buzzin' Thru Tech is a rudimentary Android game modeled after Crossy Road.
 As students at Georgia Tech, we wanted to create a fun game for other students to play that integrates different aspects of campus into the design, making the game more relatable and thus more engaging.
 
 ## How to Play
-1. Enter your name. Select a difficulty: Easy (3 lives), Medium (2 lives), or Hard (1 life). Choose a character: Buzz, President Cabrera, or Stinky CS Kid. Press "START".
+1. Enter your name. Select a difficulty: Easy (3 lives), Medium (2 lives), or Hard (1 life). Choose a character: Buzz, President Cabrera, or Stinky CS Kid.
 2. To move your character, press and fling your mouse in the desired direction.
 3. Advance forward while avoiding the obstacles. Passing faster moving objects will award you with more points: bus (normal 50 points), Ramblin' Reck (60 points), and scooter (70 points).
 4. When you reach the river, jump onto the logs to avoid falling in the water.
